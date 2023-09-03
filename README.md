@@ -1,9 +1,7 @@
 # Roblox Scripts {LUAU}
 #### Games:
 ```
-Bee Swarm Simulator <b>1</b>
-Natural Disaster Survival
+[Right 2 Fight](https://roblox.com)
+Bee Swarm Simulator [1]
+Natural Disaster Survival [0]
 ```
-
-
-
