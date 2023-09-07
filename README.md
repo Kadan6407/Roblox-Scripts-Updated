@@ -1,7 +1,6 @@
 # Roblox Scripts LUAU
-#### Games:
+#### Misc:
 
-[Right 2 Fight](https://roblox.com/games)
-
-Bee Swarm Simulator [1]
-Natural Disaster Survival [0]
+```lua
+Star Glitcher
+```
